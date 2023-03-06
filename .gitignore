@@ -133,4 +133,4 @@ dmypy.json
 .ipython_config
 .config
 .local
-.ds_Store
+.DS_Store
