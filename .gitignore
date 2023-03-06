@@ -132,3 +132,5 @@ dmypy.json
 #jupyter checkpoints
 .ipython_config
 .config
+.local
+.ds_Store
